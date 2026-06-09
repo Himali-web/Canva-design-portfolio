@@ -11,4 +11,4 @@ This is a creative fashion and lifestyle exibition poster designed using Canva.
 -Color Combination
 -Creative Branding
 ## Preview
-![Poster](Design-image-name.png)
+![Poster](Design.png)
